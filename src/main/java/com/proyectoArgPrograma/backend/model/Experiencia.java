@@ -23,5 +23,6 @@ public class Experiencia {
     private String img;
     private String post;
     private String company;
-    private String dates;
+    private int desde;
+    private int hasta;
 }

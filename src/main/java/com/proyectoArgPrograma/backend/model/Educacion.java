@@ -23,5 +23,6 @@ public class Educacion {
     private String img;
     private String title;
     private String institution;
-    private String dates;
+    private int desde;
+    private int hasta;
 }
